@@ -87,3 +87,4 @@ print(log_bla)
 
 kolonnu_virkne <- paste(names(data), collapse = "")
 cat("Kolonnu nosaukumu virkne:", kolonnu_virkne, "\n")
+
